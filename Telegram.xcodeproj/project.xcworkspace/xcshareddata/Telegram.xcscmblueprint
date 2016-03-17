@@ -1,18 +1,20 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4A5BEE4DFE7777AFD5504E71EF990A207EDDC37A",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D00DCA115E743BBA9DDFF1B5B981B3EB73593C96",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "7EC1C8EA9643E5D9E5CFB7785E6B7386F88D4D5C" : 0,
     "4A5BEE4DFE7777AFD5504E71EF990A207EDDC37A" : 0,
+    "7EC1C8EA9643E5D9E5CFB7785E6B7386F88D4D5C" : 0,
+    "D00DCA115E743BBA9DDFF1B5B981B3EB73593C96" : 0,
     "E860E73EA92362394DE531098D73ED96B22811B3" : 0,
     "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ABCC6397-1AF7-49D7-9751-8C02D795855C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "7EC1C8EA9643E5D9E5CFB7785E6B7386F88D4D5C" : "osx-cipher\/MtProtoKit\/",
     "4A5BEE4DFE7777AFD5504E71EF990A207EDDC37A" : "osx-cipher\/",
+    "7EC1C8EA9643E5D9E5CFB7785E6B7386F88D4D5C" : "osx-cipher\/MtProtoKit\/",
+    "D00DCA115E743BBA9DDFF1B5B981B3EB73593C96" : "telegram\/",
     "E860E73EA92362394DE531098D73ED96B22811B3" : "osx-cipher\/Signals\/",
     "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : "osx-cipher\/sqlcipher\/"
   },
@@ -34,6 +36,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iakovlev-peter\/MtProtoKit.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7EC1C8EA9643E5D9E5CFB7785E6B7386F88D4D5C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/xingjun\/telegram.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D00DCA115E743BBA9DDFF1B5B981B3EB73593C96"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/peter-iakovlev\/Signals",
